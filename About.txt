@@ -1,0 +1,56 @@
+This document is a description of the Project, it's stages and goals.
+
+1. Background.
+In Terms of "Advanced Internet Computing(ws14)" course at Technical University of Vienna The group of five students was
+made up to fulfill technicat tasks.
+
+Participants("The Team" later on):
+
+ Levent Ak              | 0725083 | e0725083@student.tuwien.ac.at
+ Ivan Gusljesevic       | 1029600 | e1029600@student.tuwien.ac.at 
+ Oleksandr Korobeingkov | 1228065 | e1228065@student.tuwien.ac.at
+ Christoph Seidl        | 0427434 | e0427434@student.tuwien.ac.at
+ Michael Wagner         | 0827376 | e0827376@student.tuwien.ac.at
+ 
+The Team choose Topic 4 - "Analysing Big Data"
+
+
+
+2. Project objectives.
+
+Main task for this project is to develop an application for analysing a database of "Big Data". 
+Application should mine data from Twitter Web service and store them for later analysis.
+
+
+
+
+3. Project Staging
+
+There are basically two stages in this project. On the first stage we consider implementing only basic infrastructure 
+with minor functionality, and mine some big amount of data to the system.
+
+
+
+
+
+4. Technologies involved
+
+The Team agreed to use public Git repository.
+
+Language of development : Java.
+Code Styling : to be agreed.
+
+DataBase types:
+SQL storage - 
+Graph storege - 
+Document storage - 
+
+
+
+
+
+
+
+
+
+  
