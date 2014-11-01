@@ -42,8 +42,9 @@ Code Styling : to be agreed.
 
 DataBase types:
 SQL storage - 
-Graph storege - 
-Document storage - 
+Graph storege - Neo4j
+Document storage - MongoDB
+Additional NoSQL storage - 
 
 
 
